@@ -1,2 +1,2 @@
 # Hello-world
-Just first project
+This is my first projects. Which will be the starting point to my future projects on programming....
